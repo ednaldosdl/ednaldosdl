@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, Eu sou Edinaldo Soares</h1>
+<h1 align="center">Oi 👋, Eu sou Edinaldo Soares</h1>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
