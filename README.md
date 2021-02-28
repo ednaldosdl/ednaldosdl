@@ -81,9 +81,3 @@ Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidad
 - [Codility](https://app.codility.com/programmers/)
 - [Hackerrank](https://www.hackerrank.com/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-
-
-
-
-
-
