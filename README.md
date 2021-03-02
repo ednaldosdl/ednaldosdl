@@ -39,11 +39,11 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 </p>
 
 ### 💼 Trabalho com
-- ### IDE's & Editores:
 
-![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-C83C76?style=flat-square&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-C83C76?style=flat-square&logo=webstorm&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
+##### IDE's & Editores:
+
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 
 - ### Programação:
 
