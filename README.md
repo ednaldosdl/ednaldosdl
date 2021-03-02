@@ -81,9 +81,9 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 
 <summary>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ednaldosdl&" alt="ednaldosdl" width="350" height="300" /></p> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ednaldosdl&show_icons=true&locale=en" alt="ednaldosdl" width="350" height="300" </p> 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednaldosdl&show_icons=true&locale=en&layout=compact" alt="ednaldosdl" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ednaldosdl&" alt="ednaldosdl" width="350" height="300" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ednaldosdl&show_icons=true&locale=en" alt="ednaldosdl" width="350" height="300" </p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednaldosdl&show_icons=true&locale=en&layout=compact" alt="ednaldosdl" /></p>
 
 </summary> 
  
