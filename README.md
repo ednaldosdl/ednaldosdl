@@ -80,8 +80,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="CorelDRAW" src="https://img.shields.io/badge/coreldraw%20-%23F24E1E.svg?&style=for-the-badge&logo=coreldraw&logoColor=white"/>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ednaldosdl&" alt="ednaldosdl" width="350" height="300" /></p> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ednaldosdl&show_icons=true&locale=en" alt="ednaldosdl" width="350" height="300" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ednaldosdl&show_icons=true&locale=en" alt="ednaldosdl" width="350" height="300" /></p> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednaldosdl&show_icons=true&locale=en&layout=compact" alt="ednaldosdl" /></p>
 
  
