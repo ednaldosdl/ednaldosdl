@@ -70,8 +70,6 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
 
-&nbsp;
-
 ### ⚙️ &nbsp;Análise do GitHub
 
 <p align="center">
@@ -80,8 +78,6 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
- 
- &nbsp;
  
 ### 💻 Estudando atualmente
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -92,14 +88,10 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 
-&nbsp;
-
 ### 👀 Estou interessado
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)&nbsp;
-
-&nbsp;
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
