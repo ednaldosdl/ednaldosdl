@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Conecte-se comigo:</h3>
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+<a href="https://linkedin.com/in/edinaldo-soares-44243b151"><img src="https://img.shields.io/badge/-Edinaldo-05122A?style=flat&logo=linkedin"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-@edinaldosdl-05122A?style=flat&logo=instagram"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-ednaldosdl-05122A?style=flat&logo=gmail"/></a>  
+</p>
 
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
@@ -56,7 +60,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=adobe-corel-draw)&nbsp;
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=coreldraw)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
@@ -80,7 +84,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-clou)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 
 ### 👀 Estou interessado
 
