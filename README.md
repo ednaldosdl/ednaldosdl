@@ -56,6 +56,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=adobe-corel-draw)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
@@ -79,12 +80,12 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-clou)&nbsp;
 
 ### 👀 Estou interessado
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)&nbsp;
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
