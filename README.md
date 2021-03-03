@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3 align="left">Conecte-se comigo:</h3>
 
 <p align="left">
+  <a href="https://twitter.com/ednaldosdl"><img src="https://img.shields.io/badge/-@ednaldosdl-05122A?style=flat&logo=twitter"/></a>
 <a href="https://linkedin.com/in/edinaldo-soares-44243b151"><img src="https://img.shields.io/badge/-Edinaldo-05122A?style=flat&logo=linkedin"/></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-@edinaldosdl-05122A?style=flat&logo=instagram"/></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-ednaldosdl-05122A?style=flat&logo=gmail"/></a>
