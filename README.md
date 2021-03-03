@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Conecte-se comigo:</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/edinaldo-soares-44243b151"><img src="https://img.shields.io/badge/-Edinaldo-05122A?style=flat&logo=linkedin"/></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-@edinaldosdl-05122A?style=flat&logo=instagram"/></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-ednaldosdl-05122A?style=flat&logo=gmail"/></a>  
 </p>
+
+&nbsp;
 
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
@@ -38,6 +40,8 @@ Here are some ideas to get you started:
 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca de aprimorar as habilidades como Desenvolvedor. 🏆
 
 </details>
+
+&nbsp;
 
 <img alt="Ambiente de Codificação" src="https://miro.medium.com/max/1600/1*yFrNGL0yZeXNTwIFHdalbQ.gif" align="right" width="350" height="180"/>
 
@@ -66,7 +70,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
 
-
+&nbsp;
 
 ### ⚙️ &nbsp;Análise do GitHub
 
@@ -77,6 +81,8 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 </a>
 </p>
  
+ &nbsp;
+ 
 ### 💻 Estudando atualmente
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
@@ -86,10 +92,14 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 
+&nbsp;
+
 ### 👀 Estou interessado
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)&nbsp;
+
+&nbsp;
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
