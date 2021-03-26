@@ -50,11 +50,11 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
 ![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp\
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white)&nbsp;
@@ -65,13 +65,20 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=coreldraw)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
+
+### ⚙️ &nbsp;Análise do GitHub
+
+<p align="center">
+<a href="https://github.com/ednaldosdl">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  
 ### 💻 Estudando atualmente
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -90,15 +97,8 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)\
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)&nbsp;
-
-### ⚙️ &nbsp;Análise do GitHub
-
-<p align="center">
-<a href="https://github.com/ednaldosdl">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
