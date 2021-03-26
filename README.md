@@ -81,24 +81,24 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 </p>
  
 ### 💻 Estudando atualmente
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript);
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react);
-![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react&logoColor=563D7C);
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react&logoColor=563D7C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud);
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 
 ### 👀 Estou interessado
 
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS);
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php);
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![C#](https://img.shields.io/badge/-c%23%20-05122A?style=flat&logo=c-sharp)\
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js);
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws);
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator);
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd);
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
