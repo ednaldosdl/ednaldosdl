@@ -48,28 +48,28 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 ### 🛠 &nbsp;Habilidades
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp\
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC);
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
-![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)&nbsp\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp\
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5);
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6);
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular);
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white);
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat-square&logo=postgresql&logoColor=white);
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git);
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github);
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC);
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=coreldraw)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop);
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=coreldraw);
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu);
+![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows);
 
 ### ⚙️ &nbsp;Análise do GitHub
 
@@ -81,24 +81,24 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 </p>
  
 ### 💻 Estudando atualmente
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript);
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react&logoColor=563D7C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react);
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react&logoColor=563D7C);
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud);
 
 ### 👀 Estou interessado
 
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS);
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php);
 ![C#](https://img.shields.io/badge/-c%23%20-05122A?style=flat&logo=c-sharp)\
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js);
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)&nbsp\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws);
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator);
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd);
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
