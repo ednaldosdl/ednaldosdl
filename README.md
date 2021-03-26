@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Oi 👋, Eu sou Edinaldo Soares</h1>
+<h1 align="center">Olá 👋, Eu sou Edinaldo Soares</h1>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
@@ -72,15 +72,6 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
-
-### ⚙️ &nbsp;Análise do GitHub
-
-<p align="center">
-<a href="https://github.com/ednaldosdl">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
  
 ### 💻 Estudando atualmente
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -99,6 +90,15 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)\
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)&nbsp;
+
+### ⚙️ &nbsp;Análise do GitHub
+
+<p align="center">
+<a href="https://github.com/ednaldosdl">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
