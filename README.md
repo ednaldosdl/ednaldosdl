@@ -48,18 +48,17 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 ### 🛠 &nbsp;Habilidades
 
+![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)\
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat-square&logo=postgresql&logoColor=white)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
@@ -95,10 +94,11 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![C#](https://img.shields.io/badge/-c%23%20-05122A?style=flat&logo=c-sharp)\
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)\
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
