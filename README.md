@@ -44,7 +44,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 &nbsp;
 
-<img alt="Ambiente de Codificação" src="https://miro.medium.com/max/1600/1*yFrNGL0yZeXNTwIFHdalbQ.gif" align="right" width="500" height="280"/>
+<img alt="Ambiente de Codificação" src="https://miro.medium.com/max/1600/1*yFrNGL0yZeXNTwIFHdalbQ.gif" align="right" width="450" height="270"/>
 
 ### 🛠 &nbsp;Habilidades
 
