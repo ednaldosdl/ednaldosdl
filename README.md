@@ -44,7 +44,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 &nbsp;
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="650" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
 
 
 ### 🛠 Habilidades
@@ -59,14 +59,12 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
-&nbsp;
 ### 🧑‍💻 Languagens
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=Postgresql)
-
 
 
 &nbsp;
