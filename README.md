@@ -46,7 +46,9 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="420" />
 
-### 🛠 &nbsp;Habilidades
+&nbsp;
+
+### 🛠 Habilidades
 
 ![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
@@ -73,6 +75,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 <p align="left">
   <a href="https://github.com/ednaldosdl">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    &nbsp;
     <img height="152em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
