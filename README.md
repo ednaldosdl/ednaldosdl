@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ##### Estou cursando Análise e Desenvolvimente de Sistemas, em busca de oportunidades e colaboração em projetos relacionados à Front-End e aprimorar o conhecimento.
 
 - 🔍 Atualmente aberto a novas oportunidades.
-- 🔭 Trabalhando em um projeto de E-Commerce Pessoal (em andamento) e também estou aprimorar conhecimento em estrutura de dados e algoritmos regularmente.
-- 🌱 Estudando Front-End e aprofundando o conhecimento em Javascrit.
+- 🔭 Trabalhando em um projeto Pessoal (em andamento).
+- 🌱 Estudando a linguagem Rust e também estou aprimorando conhecimento em estrutura de dados e algoritmos regularmente.
 - 🤝 Neste momento busco colaborar com projetos Front-end e a profundar os conhecimentos.
 - 💬 Sobre mim: Aficionado por tecnologia, séries e filmes!
 
@@ -44,22 +44,22 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 &nbsp;
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="420" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="320" />
 
-&nbsp;
 
 ### 🛠 Habilidades
 
 ![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
-![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)\
+![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=windows-powershell)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
-
+&nbsp;
 ### 🧑‍💻 Languagens
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
@@ -69,9 +69,8 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 
 
-
-### ⚙️ Análise do GitHub
 &nbsp;
+### ⚙️ Análise do GitHub
 <p align="left">
   <a href="https://github.com/ednaldosdl">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -79,6 +78,9 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
     <img height="152em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ednaldosdl" alt="ednaldosdl" /></a> -->
+
  
 ### 💻 Estudando atualmente
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)
