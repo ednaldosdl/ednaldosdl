@@ -44,7 +44,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 &nbsp;
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" height="320" />
 
 
 ### 🛠 Habilidades
