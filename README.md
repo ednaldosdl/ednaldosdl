@@ -69,7 +69,7 @@ aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diá
 
 
 ### ⚙️ Análise do GitHub
-
+&nbsp;
 <p align="left">
   <a href="https://github.com/ednaldosdl">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
