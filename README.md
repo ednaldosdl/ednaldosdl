@@ -1,101 +1,72 @@
-<!--
-**ednaldosdl/ednaldosdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Olá 👋, Eu sou Edinaldo Soares</h1>
+<h3 align="center">🎓 Estudante de ADS &nbsp;|&nbsp; 💻 Front-End em formação &nbsp;|&nbsp; 🌱 Aprendendo Rust</h3>
 
-<h3 align="left">Conecte-se comigo:</h3>
-
-<p align="left">
-  <a href="https://twitter.com/ednaldosdl"><img src="https://img.shields.io/badge/-@ednaldosdl-05122A?style=flat&logo=twitter"/></a>
-  <a href="https://linkedin.com/in/edinaldo-soares-44243b151"><img src="https://img.shields.io/badge/-Edinaldo-05122A?style=flat&logo=linkedin"/></a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-@edinaldosdl-05122A?style=flat&logo=instagram"/></a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox"><img src="https://img.shields.io/badge/-ednaldosdl-05122A?style=flat&logo=gmail"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/edinaldo-soares-44243b151"><img src="https://img.shields.io/badge/-Edinaldo-05122A?style=flat&logo=linkedin"/></a>&nbsp;
+  <a href="https://twitter.com/ednaldosdl"><img src="https://img.shields.io/badge/-@ednaldosdl-05122A?style=flat&logo=twitter"/></a>&nbsp;
+  <a href="mailto:ednaldosdl@gmail.com"><img src="https://img.shields.io/badge/-ednaldosdl-05122A?style=flat&logo=gmail"/></a>
 </p>
 
-&nbsp;
+---
 
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  
-### Seja bem vindo ao meu repositório! 👋
-##### Estou cursando Análise e Desenvolvimente de Sistemas, em busca de oportunidades e colaboração em projetos relacionados à Front-End e aprimorar o conhecimento.
+### 🚀 Sobre mim
 
-- 🔍 Atualmente aberto a novas oportunidades.
-- 🔭 Trabalhando em um projeto Pessoal (em andamento).
-- 🌱 Estudando a linguagem Rust e também estou aprimorando conhecimento em estrutura de dados e algoritmos regularmente.
-- 🤝 Neste momento busco colaborar com projetos Front-end e a profundar os conhecimentos.
-- 💬 Sobre mim: Aficionado por tecnologia, séries e filmes!
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+- 💻 Foco em **Front-End** — aberto a oportunidades e colaborações
+- 🔭 Desenvolvendo um projeto pessoal (em andamento)
+- 🌱 Aprimorando conhecimento em **Rust**, estrutura de dados e algoritmos
+- ⚡ Curiosidade: aficionado por tecnologia, séries e filmes
 
-aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca de aprimorar as habilidades como Desenvolvedor. 🏆
+---
 
-</details>
+### 🛠️ Tech Stack
 
-&nbsp;
+**Linguagens**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b&logoColor=00599C) ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=Postgresql)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
+**Ferramentas & SO**  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux) ![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows) ![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash) ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=windows-powershell) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
+**Estudando agora**  
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🛠 Habilidades
+**Explorando em breve**  
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=F90) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS) ![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)
 
-![Windows 10](https://img.shields.io/badge/-Windows10-05122A?style=flat&logo=windows)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
-![Shell Script](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=windows-powershell)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+---
 
-### 🧑‍💻 Languagens
+### 📌 Meus Projetos
+*Organizados por área — reflete minha evolução constante como desenvolvedor.*
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=Postgresql)
+#### 🧪 Estudos & Sandbox
+> Exercícios de prática, clones de interface e testes de lógica.
 
+- [Ex_Portfolio](https://github.com/ednaldosdl/Ex_Portfolio) — exemplo de portfólio para desenvolvedor.
+- [Ex_Replica_Instagram](https://github.com/ednaldosdl/Ex_Replica_Instagram) — recriação da home do Instagram.
+- [Ex_Replica_Netflix](https://github.com/ednaldosdl/Ex_Replica_Netflix) — recriação da interface da Netflix.
+- [Game_Resgate](https://github.com/ednaldosdl/Game_Resgate) — jogo de naves em JavaScript.
+- [SnakeGame](https://github.com/ednaldosdl/SnakeGame) — recriação do jogo da cobrinha em JavaScript.
 
-&nbsp;
-### ⚙️ Análise do GitHub
+<!-- Conforme novos projetos forem surgindo, adicione novas seções seguindo este padrão:
+#### 💻 Desenvolvimento
+- [nome-do-projeto](link) — descrição curta.
+
+Outras categorias sugeridas: ☁️ Cloud & Infraestrutura · 🛡️ Segurança da Informação · 📊 Dados & IA · 🎯 Projetos Pessoais
+-->
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
   <a href="https://github.com/ednaldosdl">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednaldosdl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    &nbsp;
-    <img height="152em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednaldosdl&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ednaldosdl" alt="ednaldosdl" /></a> -->
+---
 
- 
-### 💻 Estudando atualmente
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat-square&logo=postgresql&logoColor=white)
+### 💡 Praticando lógica em
 
-### 👀 Estou interessado
-
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS&logoColor=F90)
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure-devops)\
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-
-### 💡 Dica de plataformas de Estudo
-Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
-
-- [Codility](https://app.codility.com/programmers/)
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+[Codility](https://app.codility.com/programmers/) · [HackerRank](https://www.hackerrank.com/) · [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
